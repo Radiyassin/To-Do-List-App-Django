@@ -19,6 +19,11 @@ A simple web-based To-Do List application with user authentication (Login/Regist
 
  ## OVERVIEW
 1. **Login Page**:
+2. **Registration Page**:
+3. **Task Dashboard**:
+4. **Task Details**:
+5. **Delete Confirmation**:
+
 ## Installation
 
 1. **Clone the repository**:
