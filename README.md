@@ -2,7 +2,7 @@
 
 A simple web-based To-Do List application with user authentication (Login/Register) and task management features.
 
-![App Screenshot](screenshots/dashboard.png) <!-- Replace with your actual screenshot paths -->
+![App Screenshot](image.png) <!-- Replace with your actual screenshot paths -->
 
 ## Features
 
