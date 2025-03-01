@@ -17,6 +17,8 @@ A simple web-based To-Do List application with user authentication (Login/Regist
 - **Search**: Search through tasks using keywords.
 - **Task Details**: View detailed descriptions of tasks (e.g., "Take a 30-Minute Walk" with notes).
 
+ ## OVERVIEW
+1. **Login Page**:
 ## Installation
 
 1. **Clone the repository**:
@@ -26,3 +28,5 @@ A simple web-based To-Do List application with user authentication (Login/Regist
 2. **Run the application**:
   ```bash
 python manage.py runserver
+
+
