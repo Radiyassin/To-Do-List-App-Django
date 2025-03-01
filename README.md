@@ -23,11 +23,21 @@ A simple web-based To-Do List application with user authentication (Login/Regist
 
  ![App Screenshot](todolistApp/Screenshots/LOGIN.jpg) <!-- Replace with your actual screenshot paths -->
 
-3. **Registration Page**:
-4. **Task Dashboard**:
-5. **Task Details**:
-6. **Delete Confirmation**:
+2. **Registration Page**:
 
+
+   ![App Screenshot](todolistApp/Screenshots/image.png) 
+2. **Task Dashboard**:
+
+
+   ![App Screenshot](todolistApp/Screenshots/Task Dashboard.jpg) 
+3. **Task Details**:
+
+  ![App Screenshot](todolistApp/Screenshots/Task Details.jpg) 
+10. **Delete Confirmation**:
+
+
+![App Screenshot](todolistApp/Screenshots/Delete Confirmation.jpg) 
 ## Installation
 
 1. **Clone the repository**:
