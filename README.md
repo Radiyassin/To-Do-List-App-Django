@@ -23,3 +23,6 @@ A simple web-based To-Do List application with user authentication (Login/Regist
    ```bash
    git clone https://github.com/your-username/todo-app.git
    cd todo-app
+2. **Run the application**:
+  ```bash
+python manage.py runserver
