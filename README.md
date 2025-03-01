@@ -19,6 +19,8 @@ A simple web-based To-Do List application with user authentication (Login/Regist
 
  ## OVERVIEW
 1. **Login Page**:
+
+
  ![App Screenshot](todolistApp/Screenshots/LOGIN.jpg) <!-- Replace with your actual screenshot paths -->
 
 3. **Registration Page**:
